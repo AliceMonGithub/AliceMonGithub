@@ -1,4 +1,5 @@
-##A game-developer, programmer.
+# A game-developer, programmer.
+## Stuff
 
 ![Elixir](https://img.shields.io/badge/-Elixir-663299?style=for-the-badge&logo=elixir)
 ![Erlang](https://img.shields.io/badge/-Erlang-8c002f?style=for-the-badge&logo=erlang)
