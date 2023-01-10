@@ -2,7 +2,7 @@
 ## Stuff
 
 ![C#](https://img.shields.io/badge/-Csharp-008000?style=for-the-badge&logo=csharp)
-![Rust](https://img.shields.io/badge/-Rust-808000?style=for-the-badge&logo=rust)
+![Rust](https://img.shields.io/badge/-Rust-FA8E47?style=for-the-badge&logo=rust)
 
 - - -
 
