@@ -6,6 +6,8 @@
 
 - - -
 
+![Codewars](https://www.codewars.com/users/AliceMon/badges/small?theme=light)
+
 ![](https://github-profile-trophy.vercel.app/?username=AliceMonGithub&theme=onedark)
 
 - - -
