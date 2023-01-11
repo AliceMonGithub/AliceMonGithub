@@ -4,8 +4,6 @@
 ![C#](https://img.shields.io/badge/-Csharp-008000?style=for-the-badge&logo=csharp)
 ![Rust](https://img.shields.io/badge/-Rust-cd412b?style=for-the-badge&logo=rust)
 
-- - -
-
 ## Statistic
 
 ![Codewars](https://www.codewars.com/users/AliceMon/badges/small?theme=light)
